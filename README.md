@@ -1,7 +1,7 @@
 Interactive Cyber Threat Visualization Dashboard
 This dashboard provides a centralized interface to analyze attack patterns, identify vulnerabilities, and visualize threat intelligence through interactive maps and data analytics.
 
-Live Demo: secure-view-pulse.vercel.app
+Live Demo: https://secure-view-pulse.vercel.app/
 
 Demo Video:
 
