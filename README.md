@@ -12,9 +12,6 @@ https://github.com/user-attachments/assets/2aacf15c-83e1-41ab-834a-740a8e370a6c
 
 🚀 Features
 
-https://github.com/user-attachments/assets/663c7f03-e99d-4ef0-aeb9-3592fb1b5b0c
-
-
 Real-time Threat Map: Interactive global visualization of active cyber attacks.
 
 Dynamic Analytics: Visual representation of threat levels, attack types, and geographic hotspots.
